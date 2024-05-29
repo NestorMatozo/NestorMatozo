@@ -5,7 +5,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Node-%235CB0E0a">
   <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231B83DE">
 
-</div> <br>
+</div>
 <div style="display:flex;">
   <img alt="Static Badge" src="https://img.shields.io/badge/backend-%20Asp.net-blue">
 
