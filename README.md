@@ -9,6 +9,7 @@
 </div>
 <div style="display:flex;">
   <img alt="Static Badge" src="https://img.shields.io/badge/backend-%20Asp.net-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20SERVER-%20Bases%20de%20datos%20relacionales-red">
 
 </div>
 
