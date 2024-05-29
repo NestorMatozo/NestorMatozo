@@ -3,6 +3,8 @@
 <div style="display:flex;">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%235CB0E0">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node-%235CB0E0a">
+  <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231B83DE">
+
 </div>
 
 
