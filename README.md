@@ -21,6 +21,8 @@
 <p>Actualmente me encuentro desarrollando habilidades en la creción de arte digital alguna de las herramientas que utilizo son las siguientes</p>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+   <img alt="Static Badge" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </div>
 
 
