@@ -27,6 +27,6 @@
 </div>
 
 <h4>Mi filosofía de vida</h4>
-<p>Me considero un estoico, busco crecer siguiendo la virtud, coraje, templanza, y resilencia tratando de actuar de está manera con virtud y de está manera lograr un crecimiento profesional y personal, buscando así la calma y la felicidad.</p>
+<p>Me considero un estoico, busco crecer siguiendo la virtud, coraje, templanza, y resilencia tratando de actuar de está manera con virtud para lograr un crecimiento profesional y personal, buscando así la calma y la felicidad.</p>
 
 
