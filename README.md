@@ -14,6 +14,7 @@
  
  <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20-%20Bases%20de%20datos%20relacionales-%23C5DBD7">
  <img alt="Static Badge" src="https://img.shields.io/badge/App%20Movile-%20Android-%2312C940">
+<img alt="Static Badge" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 </div>
 
