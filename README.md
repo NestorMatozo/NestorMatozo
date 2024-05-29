@@ -15,10 +15,10 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20-%20Bases%20de%20datos%20relacionales-%23C5DBD7">
  <img alt="Static Badge" src="https://img.shields.io/badge/App%20Movile-%20Android-%2312C940">
 
-
-
-
 </div>
+
+<H4>Habilidades de arte digital</H4>
+<p>Actualmente me encuentro desarrollando habilidades en la creción de arte digital alguna de las herramientas que utilizo son las siguientes</p>
 
 
 
