@@ -6,6 +6,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Node-%235CB0E0a">
   <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231B83DE">
    <img alt="Static Badge" src="https://img.shields.io/badge/backend-%20Asp.net-blue">
+   <img alt="Static Badge" src="https://img.shields.io/badge/App%20Desktop-%20C%23-%2329A5FF">
+
 
 </div>
 <div style="display:flex;">
