@@ -10,7 +10,8 @@
 </div>
 <div style="display:flex;">
  
- <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20SERVER-%20Bases%20de%20datos%20relacionales-%23C5DBD7">
+ <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20-%20Bases%20de%20datos%20relacionales-%23C5DBD7">
+
 
 
 </div>
