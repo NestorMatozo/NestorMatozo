@@ -5,10 +5,11 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%235CB0E0">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node-%235CB0E0a">
   <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231B83DE">
+   <img alt="Static Badge" src="https://img.shields.io/badge/backend-%20Asp.net-blue">
 
 </div>
 <div style="display:flex;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/backend-%20Asp.net-blue">
+ 
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20SERVER-%20Bases%20de%20datos%20relacionales-red">
 
 </div>
