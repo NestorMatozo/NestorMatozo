@@ -19,7 +19,7 @@
 
 <H4>Habilidades de arte digital</H4>
 <p>Actualmente me encuentro desarrollando habilidades en la creción de arte digital alguna de las herramientas que utilizo son las siguientes</p>
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 
 
 
