@@ -19,7 +19,7 @@
 </div>
 
 <H4>Habilidades de arte digital</H4>
-<p>Actualmente me encuentro desarrollando habilidades en la creación de arte digital alguna de las herramientas que utilizo son las siguientes</p>
+<p>Actualmente me encuentro desarrollando habilidades en la creación de arte digital algunas de las herramientas que utilizo son las siguientes</p>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
